@@ -1,0 +1,9 @@
+{
+    "status": 1,
+    "data": {
+        "cricket_base": "newcricketbase.com",
+        "football_base": "newfootballbase.com",
+        "cricket": false,
+        "football": false
+    }
+}
