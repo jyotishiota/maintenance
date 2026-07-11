@@ -1,0 +1,9 @@
+{
+    "status": 1,
+    "data": {
+        "cricket_base": "https://balancer.valokisu.online",
+        "football_base": "https://bdixapps.com",
+        "cricket": false,
+        "football": false
+    }
+}
