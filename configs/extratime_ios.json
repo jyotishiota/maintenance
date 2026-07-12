@@ -1,0 +1,9 @@
+{
+    "status": 1,
+    "data": {
+        "cricket_base": "https://load.talkingtikitaka.xyz",
+        "football_base": "https://bdixapps.com",
+        "cricket": false,
+        "football": false
+    }
+}
